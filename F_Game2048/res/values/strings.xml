@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="score">Score</string>
+    <string name="score_0">0</string>
+    <string name="best">Best</string>
+    <string name="best_0">0</string>
+    <string name="description1">Play 2048 Game</string>
+    <string name="description2">Jion the numbers and get to the 2048 tile!</string>
+    <string name="new_game">New Game</string>
+    <string name="_2048">2048</string>
+    <string name="stopMusic">停止播放</string>
+
+</resources>
